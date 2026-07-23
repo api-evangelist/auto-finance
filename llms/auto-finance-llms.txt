@@ -1,0 +1,81 @@
+# Auto Finance
+
+## Auto Finance
+
+- [Introduction](https://docs.auto.finance/auto-pools-protocol/introduction.md)
+- [Autopools tl;dr](https://docs.auto.finance/auto-pools-protocol/autopools-tl-dr.md)
+- [Auto-Rebalancing](https://docs.auto.finance/auto-pools-protocol/autopools-tl-dr/auto-rebalancing.md)
+- [Yield Optimizing](https://docs.auto.finance/auto-pools-protocol/autopools-tl-dr/yield-optimizing.md)
+- [Auto-Compounding](https://docs.auto.finance/auto-pools-protocol/autopools-tl-dr/auto-compounding.md)
+- [Dashboard and Tracking](https://docs.auto.finance/auto-pools-protocol/autopools-tl-dr/dashboard-and-tracking.md)
+- [Protocol Mechanics](https://docs.auto.finance/auto-pools-protocol/protocol-mechanics.md)
+- [Components & Logic](https://docs.auto.finance/auto-pools-protocol/protocol-mechanics/components-and-logic.md)
+- [Asset Flow Example](https://docs.auto.finance/auto-pools-protocol/protocol-mechanics/asset-flow-example.md)
+- [Autopool Receipt Tokens](https://docs.auto.finance/auto-pools-protocol/autopool-receipt-tokens.md)
+- [Staking AUTO](https://docs.auto.finance/auto-pools-protocol/staking-auto.md)
+- [Custom Autopools](https://docs.auto.finance/auto-pools-protocol/custom-autopools.md)
+- [Glossary](https://docs.auto.finance/auto-pools-protocol/glossary.md): Important terms to know:
+- [App Guide](https://docs.auto.finance/using-the-app/app-guide.md)
+- [Autopools](https://docs.auto.finance/using-the-app/app-guide/autopools.md)
+- [Deposit and Withdraw](https://docs.auto.finance/using-the-app/app-guide/autopools/deposit-and-withdraw.md)
+- [Stake and Unstake](https://docs.auto.finance/using-the-app/app-guide/autopools/stake-and-unstake.md)
+- [Claim Incentives](https://docs.auto.finance/using-the-app/app-guide/autopools/claim-incentives.md)
+- [View Positions](https://docs.auto.finance/using-the-app/app-guide/autopools/view-positions.md)
+- [Staking AUTO](https://docs.auto.finance/using-the-app/app-guide/staking-auto.md)
+- [Unstake and Withdraw AUTO](https://docs.auto.finance/using-the-app/app-guide/staking-auto/unstake-and-withdraw-auto.md)
+- [View AUTO Staking Positions](https://docs.auto.finance/using-the-app/app-guide/staking-auto/view-auto-staking-positions.md)
+- [Claim AUTO Staking Rewards](https://docs.auto.finance/using-the-app/app-guide/staking-auto/claim-auto-staking-rewards.md)
+- [AUTO/ETH LP](https://docs.auto.finance/using-the-app/app-guide/auto-eth-lp.md)
+- [Guarded Launch Rewards](https://docs.auto.finance/using-the-app/app-guide/guarded-launch-rewards.md)
+- [With Wallet Services](https://docs.auto.finance/using-the-app/with-wallet-services.md)
+- [Fireblocks](https://docs.auto.finance/using-the-app/with-wallet-services/fireblocks.md)
+- [Troubleshooting](https://docs.auto.finance/using-the-app/troubleshooting.md)
+- [Contracts Overview](https://docs.auto.finance/developer-docs/contracts-overview.md): Below you can find a collection of technical information/docs and their respective contracts
+- [Autopool ETH Contracts Overview](https://docs.auto.finance/developer-docs/contracts-overview/autopool-eth-contracts-overview.md)
+- [Autopool System High Level Overview](https://docs.auto.finance/developer-docs/contracts-overview/autopool-eth-contracts-overview/autopool-system-high-level-overview.md)
+- [Autopool Contracts and Systems](https://docs.auto.finance/developer-docs/contracts-overview/autopool-eth-contracts-overview/autopool-contracts-and-systems.md)
+- [Autopool Contract Security](https://docs.auto.finance/developer-docs/contracts-overview/autopool-eth-contracts-overview/autopool-contracts-and-systems/autopool-contract-security.md)
+- [Stats](https://docs.auto.finance/developer-docs/contracts-overview/autopool-eth-contracts-overview/autopool-contracts-and-systems/stats.md)
+- [Autopool Strategy](https://docs.auto.finance/developer-docs/contracts-overview/autopool-eth-contracts-overview/autopool-contracts-and-systems/autopool-strategy.md)
+- [Pricing](https://docs.auto.finance/developer-docs/contracts-overview/autopool-eth-contracts-overview/autopool-contracts-and-systems/pricing.md)
+- [Swap Router](https://docs.auto.finance/developer-docs/contracts-overview/autopool-eth-contracts-overview/autopool-contracts-and-systems/swap-router.md)
+- [Curve Resolver](https://docs.auto.finance/developer-docs/contracts-overview/autopool-eth-contracts-overview/autopool-contracts-and-systems/curve-resolver.md)
+- [Message Proxy](https://docs.auto.finance/developer-docs/contracts-overview/autopool-eth-contracts-overview/autopool-contracts-and-systems/message-proxy.md)
+- [sTOKE](https://docs.auto.finance/developer-docs/contracts-overview/autopool-eth-contracts-overview/autopool-contracts-and-systems/stoke.md)
+- [Autopool Router](https://docs.auto.finance/developer-docs/contracts-overview/autopool-eth-contracts-overview/autopool-contracts-and-systems/autopool-router.md)
+- [Liquidation](https://docs.auto.finance/developer-docs/contracts-overview/autopool-eth-contracts-overview/autopool-contracts-and-systems/liquidation.md)
+- [Destination Vaults](https://docs.auto.finance/developer-docs/contracts-overview/autopool-eth-contracts-overview/autopool-contracts-and-systems/destination-vaults.md)
+- [Autopools](https://docs.auto.finance/developer-docs/contracts-overview/autopool-eth-contracts-overview/autopool-contracts-and-systems/autopools.md)
+- [Autopool Contracts Glossary](https://docs.auto.finance/developer-docs/contracts-overview/autopool-eth-contracts-overview/autopool-contracts-glossary.md)
+- [Contract Addresses](https://docs.auto.finance/developer-docs/contracts-overview/contract-addresses.md)
+- [Security and Audits](https://docs.auto.finance/developer-docs/security-and-audits.md): Various Security Audits Below
+- [Hexens: autoUSD March 25th 2025](https://docs.auto.finance/developer-docs/security-and-audits/hexens-autousd-march-25th-2025.md)
+- [Hexens: Autopilot Follow Up/Updates Audit July 2024](https://docs.auto.finance/developer-docs/security-and-audits/hexens-autopilot-follow-up-updates-audit-july-2024.md)
+- [Hexens: Tokemak Autopilot May 2024](https://docs.auto.finance/developer-docs/security-and-audits/hexens-tokemak-autopilot-may-2024.md)
+- [Certora: LMPStrategy Security Assessment & Formal Verification Report - Jan/March 2024](https://docs.auto.finance/developer-docs/security-and-audits/certora-lmpstrategy-security-assessment-and-formal-verification-report-jan-march-2024.md): This report describes the specification and verification of the Tokemak v2 LMPStrategy contract using the Certora Prover and manual code review findings. The work was undertaken from January 2nd 2023
+- [Hats.Finance, Crowd Competition Smart Contract Audit, February - March 2024](https://docs.auto.finance/developer-docs/security-and-audits/hats.finance-crowd-competition-smart-contract-audit-february-march-2024.md)
+- [Halborn - Autopilot (Autopools) Contracts - Preliminary Smart Contract Audit - Sept 2023](https://docs.auto.finance/developer-docs/security-and-audits/halborn-autopilot-autopools-contracts-preliminary-smart-contract-audit-sept-2023.md)
+- [Halborn - Autopilot Pricing Contracts - Formal Verification Report - Sept 2023](https://docs.auto.finance/developer-docs/security-and-audits/halborn-autopilot-pricing-contracts-formal-verification-report-sept-2023.md)
+- [Sherlock - Autopilot Contracts - Crowd Competition - Sept 2023](https://docs.auto.finance/developer-docs/security-and-audits/sherlock-autopilot-contracts-crowd-competition-sept-2023.md)
+- [Halborn - accTOKE Contract - Nov 2022](https://docs.auto.finance/developer-docs/security-and-audits/halborn-acctoke-contract-nov-2022.md)
+- [Integrating](https://docs.auto.finance/developer-docs/integrating.md): See below for important topics on integrating with the Autopilot system
+- [4626 Compliance](https://docs.auto.finance/developer-docs/integrating/4626-compliance.md)
+- [Large Withdrawals](https://docs.auto.finance/developer-docs/integrating/large-withdrawals.md): Learn how to optimize withdrawals to limit slippage.
+- [Checking for Stale Data](https://docs.auto.finance/developer-docs/integrating/checking-for-stale-data.md)
+- [Community Resources](https://docs.auto.finance/additional-links/community-resources.md)
+
+
+---
+
+# Agent Instructions
+This documentation is published with GitBook. GitBook is the documentation platform designed so that both humans and AI agents can read, navigate, and reason over technical content effectively. Learn more at gitbook.com.
+
+## Querying This Documentation
+If you need additional information, you can query the documentation dynamically by asking a question.
+Perform an HTTP GET request on a page URL with the `ask` query parameter:
+```
+GET https://docs.auto.finance/auto-pools-protocol/introduction.md?ask=<question>
+```
+The question should be specific, self-contained, and written in natural language.
+The response will contain a direct answer to the question and relevant excerpts and sources from the documentation.
+Use this mechanism when the answer is not explicitly present in the current page, you need clarification or additional context, or you want to retrieve related documentation sections.

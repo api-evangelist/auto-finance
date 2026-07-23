@@ -1,8 +1,13 @@
 aid: auto-finance
 name: Auto Finance
-description: 'Auto Finance is a company surfaced as a portfolio company of electric-capital and added
-  to the API Evangelist network as a stub for enrichment. Sector: defi. This profile is a lead awaiting
-  the enrichment pipeline.'
+description: 'Auto Finance is a decentralized finance (DeFi) liquidity-management protocol
+  built by Tokemak. Its core product, Autopools, are automated onchain vaults that
+  autonomously optimize, rebalance, and auto-compound liquidity-provider yield across
+  major DeFi venues (Curve, Fluid, Inverse, Morpho, AAVE) and networks (Ethereum,
+  Arbitrum, Base), abstracting away the complexity of manual LP management. The
+  protocol is governed and secured through AUTO token staking, and its onchain
+  surface is a public set of audited Solidity smart contracts rather than a REST API.
+  Documentation is published via GitBook with an agent-readable llms.txt index.'
 url: https://raw.githubusercontent.com/api-evangelist/auto-finance/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -10,12 +15,30 @@ x-backed-by:
 - electric-capital
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
+image: https://app.auto.finance/thumbnails/autofinance.jpg
 tags:
 - Company
 - Defi
+- Yield Optimization
+- Liquidity Management
+- Vaults
+- Staking
+- Ethereum
+- Web3
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -25,3 +48,22 @@ maintainers:
 common:
 - type: Website
   url: https://app.auto.finance/
+- type: Documentation
+  url: https://docs.auto.finance/
+- type: GettingStarted
+  url: https://docs.auto.finance/using-the-app/app-guide
+- type: Blog
+  url: https://blog.tokemak.xyz/
+- type: GitHubOrganization
+  url: https://github.com/Tokemak
+- type: Support
+  url: https://discord.gg/tokemak
+- type: LLMsTxt
+  url: llms/auto-finance-llms.txt
+- type: DomainSecurity
+  url: security/auto-finance-domain-security.yml
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
